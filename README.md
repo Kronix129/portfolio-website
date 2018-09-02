@@ -1,5 +1,5 @@
 # portfolio-website
-Express app using Node and Mongo
+RESTFUL Express app using Node and Mongo
 
 Personal project website incorporating back and front end. Backend done through express via node.js. Website database done through mongodb. Website follows RESTFUL routing.
 
